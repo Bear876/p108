@@ -1,0 +1,36 @@
+body
+{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #a6e1f7;
+}
+
+.header_div
+  {
+  background: #a1eaf4;
+  color: rgb(35, 28, 28); 
+  }
+
+  .header_div p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    font-weight:bold;
+  }
+  .main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 35px;
+    width: 100px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #87c4f9;
+   bottom: 0;
+   width: 100%;
+   background-color: #243293;
+   line-height: 3;
+   text-align: center;
+   font-size:17px;
+}
